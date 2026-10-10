@@ -1,6 +1,6 @@
 {
   "name": "cdk-jwks-parameter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CDK construct for a JWKS stored in an SSM SecureString parameter and rotated by a Lambda on an EventBridge schedule",
   "keywords": [
     "aws-cdk",
